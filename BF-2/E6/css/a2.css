@@ -1,0 +1,16 @@
+.uno {
+    max-width: 1200px;
+}
+.dos {
+    max-width: 1000px;
+}
+.tres {
+    max-width: 800px;
+}
+.cuatro {
+    max-width: 600px;
+}
+p {
+    text-align: justify;
+    background-color: #5863c4;
+}

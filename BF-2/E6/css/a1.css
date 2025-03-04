@@ -1,0 +1,13 @@
+.dual {
+    font-size: 48px;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+.superior {
+    font-size: 24px;
+}
+.precio {
+    font-size: 32px;
+    font-weight: bold;
+    text-transform: capitalize;
+}

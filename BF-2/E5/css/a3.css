@@ -1,0 +1,36 @@
+.title {
+    font-size: 64px;
+}
+.title {
+    font-weight: bold;
+}
+.down {
+    font-style: oblique;
+}
+.pro {
+    font-size: 24px;
+}
+.pro {
+    font-style: italic;
+}
+.title {
+    letter-spacing: 32px;
+}
+.down {
+    letter-spacing: 8px;
+}
+.title {
+    text-transform: uppercase;
+}
+.pro {
+    text-transform: uppercase;
+}
+.text {
+    text-align: justify-all;
+}
+.title:hover {
+    color: #429aff; font-style: italic;
+}
+.pro:hover {
+    color: #ff424b; font-weight: bold;
+}

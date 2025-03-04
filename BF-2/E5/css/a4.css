@@ -1,0 +1,14 @@
+@font-face {
+    font-family: digit;
+    src: url(font/TypoDigitDemo.otf)
+}
+@font-face {
+    font-family: kachika;
+    src: url(font/KACHIKA.ttf)
+}
+.text {
+    font-family: kachika;
+}
+.tittle {
+    font-family: digit;
+}
