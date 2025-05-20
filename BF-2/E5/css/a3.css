@@ -34,3 +34,7 @@
 .pro:hover {
     color: #ff424b; font-weight: bold;
 }
+.volver{
+    color: #000000;
+    text-decoration: none;
+}

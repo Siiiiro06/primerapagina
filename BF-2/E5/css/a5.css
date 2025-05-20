@@ -12,4 +12,7 @@
     text-transform: uppercase;
     font-size: 20px
 }
-
+.volver{
+    color: #000000;
+    text-decoration: none;
+}

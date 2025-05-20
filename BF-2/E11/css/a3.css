@@ -3,3 +3,7 @@ img{
     border: 25px solid rgb(255, 91, 91);
   border-radius: 64px;
 }
+.volver{
+    color: #000000;
+    text-decoration: none;
+}

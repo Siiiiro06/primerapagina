@@ -9,7 +9,7 @@
 .link_menu {
   margin-block: 6rem;
   padding: 7px;
-  border: 1.5px solid rgb(161, 161, 161);
+  border: 1.5px solid #a1a1a1;
   border-radius: 10px;
   }
 .link_menu {
@@ -19,7 +19,7 @@
 }
 .header {
     margin-bottom: 200px;
-    border-bottom: 2px solid rgb(165, 165, 165);
+    border-bottom: 2px solid #a5a5a5;
     margin-top: 25px;
 }
 .pek {
@@ -29,7 +29,7 @@
 .mycontainer {
   width:100%;
   overflow:auto;
-  border-top:2px solid rgb(165, 165, 165);
+  border-top:2px solid #a5a5a5;
 }
 .mycontainer div {
   width:49%;

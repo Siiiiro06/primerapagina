@@ -3,3 +3,7 @@ img{
     border: 25px solid;
     border-image: linear-gradient(#de66fc, #57ebff) 1;
 }
+.volver{
+    color: #000000;
+    text-decoration: none;
+}
