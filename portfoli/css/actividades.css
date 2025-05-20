@@ -1,49 +1,57 @@
-.inicio1 {
-    box-shadow:
-        0 2.8px 2.2px rgba(0, 0, 0, 0.034),
-        0 6.7px 5.3px rgba(0, 0, 0, 0.048),
-        0 12.5px 10px rgba(0, 0, 0, 0.06),
-        0 22.3px 17.9px rgba(0, 0, 0, 0.072),
-        0 41.8px 33.4px rgba(0, 0, 0, 0.086),
-        0 100px 80px rgba(0, 0, 0, 0.12)
-      ;
-    width: 64px;
-    background: white;
-    border-radius: 5px;
-  }
-  .actividades1 {
-    box-shadow:
-        0 2.8px 2.2px rgba(0, 0, 0, 0.034),
-        0 6.7px 5.3px rgba(0, 0, 0, 0.048),
-        0 12.5px 10px rgba(0, 0, 0, 0.06),
-        0 22.3px 17.9px rgba(0, 0, 0, 0.072),
-        0 41.8px 33.4px rgba(0, 0, 0, 0.086),
-        0 100px 80px rgba(0, 0, 0, 0.12)
-      ;
-    width: 128px;
-    background: white;
-    border-radius: 5px;
-  }
-  .sobremi1 {
-    box-shadow:
-        0 2.8px 2.2px rgba(0, 0, 0, 0.034),
-        0 6.7px 5.3px rgba(0, 0, 0, 0.048),
-        0 12.5px 10px rgba(0, 0, 0, 0.06),
-        0 22.3px 17.9px rgba(0, 0, 0, 0.072),
-        0 41.8px 33.4px rgba(0, 0, 0, 0.086),
-        0 100px 80px rgba(0, 0, 0, 0.12)
-      ;
-    width: 100px;
-    background: white;
-    border-radius: 5px;
-  }
-
-.inicio1 {
-    transform: translateX(250px);
+@font-face{
+  font-family: "font";
+  src: url("../font/CODE Light.otf")
 }
-.actividades1 {
-    transform: translateX(450px);
+@font-face{
+  font-family: "fontb";
+  src: url("../font/CODE Bold.otf")
 }
-.sobremi1 {
-    transform: translateX(750px);
+.link_menu {
+  margin-block: 6rem;
+  padding: 7px;
+  border: 1.5px solid rgb(161, 161, 161);
+  border-radius: 10px;
+  }
+.link_menu {
+    font-size: 24px;
+    font-family: "fontb";
+    margin-left: 362px;
+}
+.header {
+    margin-bottom: 100px;
+    border-bottom: 2px solid rgb(165, 165, 165);
+    margin-top: 25px;
+}
+.body {
+  color: #ffffff;
+  font-family: "font";
+  letter-spacing: 3px;
+  background-color: #000000;
+}
+.a {
+  color: #ffffff;
+  text-decoration: none;
+}
+.act {
+  font-family: "fontb";
+  font-size: 50px;
+}
+.entero {
+  padding-left: 64px;
+}
+.contacte {
+  padding-left: 37px;
+}
+.mycontainer div {
+  width:49%;
+  float:left;
+}
+.mycontainer {
+  width:100%;
+  overflow:auto;
+  border-top:2px solid rgb(165, 165, 165);
+}
+.listasact {
+  width: 32%;
+  float:left;
 }

@@ -1,0 +1,17 @@
+body {
+    padding: 64px;
+    font-size: 24px ;
+}
+.list{
+    font-size: 24px ;
+}
+.boton{
+    background-color: #356e88;
+    padding: 12px;
+}
+.cuanto{
+    color: #468dad;
+}
+.pre{
+    color: #468dad;
+}

@@ -1,0 +1,5 @@
+img{
+    padding: 32px;
+    border: 25px solid;
+    border-image: linear-gradient(#de66fc, #57ebff) 1;
+}

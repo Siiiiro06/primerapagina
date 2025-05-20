@@ -1,50 +1,65 @@
+@font-face{
+  font-family: "font";
+  src: url("../font/CODE Light.otf")
+}
+@font-face{
+  font-family: "fontb";
+  src: url("../font/CODE Bold.otf")
+}
 .link_menu {
-    box-shadow:
-        0 2.8px 2.2px rgba(0, 0, 0, 0.034),
-        0 6.7px 5.3px rgba(0, 0, 0, 0.048),
-        0 12.5px 10px rgba(0, 0, 0, 0.06),
-        0 22.3px 17.9px rgba(0, 0, 0, 0.072),
-        0 41.8px 33.4px rgba(0, 0, 0, 0.086),
-        0 100px 80px rgba(0, 0, 0, 0.12)
-      ;
-    width: 64px;
-    background: white;
-    border-radius: 5px;
-  }
-  .actividades1 {
-    box-shadow:
-        0 2.8px 2.2px rgba(0, 0, 0, 0.034),
-        0 6.7px 5.3px rgba(0, 0, 0, 0.048),
-        0 12.5px 10px rgba(0, 0, 0, 0.06),
-        0 22.3px 17.9px rgba(0, 0, 0, 0.072),
-        0 41.8px 33.4px rgba(0, 0, 0, 0.086),
-        0 100px 80px rgba(0, 0, 0, 0.12)
-      ;
-    width: 128px;
-    background: white;
-    border-radius: 5px;
-  }
-  .sobremi1 {
-    box-shadow:
-        0 2.8px 2.2px rgba(0, 0, 0, 0.034),
-        0 6.7px 5.3px rgba(0, 0, 0, 0.048),
-        0 12.5px 10px rgba(0, 0, 0, 0.06),
-        0 22.3px 17.9px rgba(0, 0, 0, 0.072),
-        0 41.8px 33.4px rgba(0, 0, 0, 0.086),
-        0 100px 80px rgba(0, 0, 0, 0.12)
-      ;
-    width: 100px;
-    background: white;
-    border-radius: 5px;
+  margin-block: 6rem;
+  padding: 7px;
+  border: 1.5px solid rgb(161, 161, 161);
+  border-radius: 10px;
   }
 .link_menu {
     font-size: 24px;
-    font-weight: bold;
-    margin-left: 393px;
+    font-family: "fontb";
+    margin-left: 362px;
 }
 .header {
-    margin-bottom: 100px;
+    margin-bottom: 200px;
+    border-bottom: 2px solid rgb(165, 165, 165);
+    margin-top: 25px;
 }
-.eve {
-    margin-bottom: 100px;
+.pek {
+  margin-bottom: 250px;
+  font-size:24px;
+}
+.mycontainer {
+  width:100%;
+  overflow:auto;
+  border-top:2px solid rgb(165, 165, 165);
+}
+.mycontainer div {
+  width:49%;
+  float:left;
+}
+.body {
+  color: #ffffff;
+  font-family: "font";
+  letter-spacing: 3px;
+  background-color: #000000;
+}
+main {
+  padding-left: 64px;
+}
+.a {
+  color: #ffffff;
+  text-decoration: none;
+}
+.contacte {
+  padding-left: 37px;
+}
+.evg {
+  font-family: "fontb";
+  font-size:128px;
+}
+.act {
+  margin-top: 128px;
+  margin-bottom: 128px;
+}
+.cv {
+  margin-bottom: 128px;
+  font-size:64px;
 }

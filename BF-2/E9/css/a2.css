@@ -1,0 +1,16 @@
+.p1{
+    background-color: rgba(158, 255, 255, 0.637);
+    text-align: center;
+
+}
+.barr{
+    text-decoration: underline;
+}
+.tittle{
+    margin-top: 70px;
+    margin-bottom: 50px;
+}
+.bot{
+    margin: 25px;
+    border: 1px solid black;
+}

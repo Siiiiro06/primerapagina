@@ -1,0 +1,5 @@
+img{
+    border: 20px solid #ff9945;
+    border-right: 20px dashed #ff9945;
+    border-left: 20px dashed #ff9945;
+}
