@@ -64,8 +64,11 @@
 img{
     margin: 75px;
 }
-.rehan{
-    width: 25px;
-    border:#ffffff solid 1px; 
-    vertical-align: middle;
+.container div {
+    height: auto;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
